@@ -2,8 +2,8 @@
 
 | Day | Topic                                 | Detail |
 |-----|:--------------------------------------|:-------|
-| 001 | Data Cleaning Working with string     ||
-| 002 | Data Cleaning ||
+| 001 | Data Cleaning Working with string     |+ Split A column into multiple cloumns<br/>+ Joining two columns<br/>+ Removing words, expression<br/>+ Searching for strings and expressions<br/>+ Replacing words<br/>+ Counting string in A column |
+| 002 | Data Cleaning |+ Reding the file<br/>+ Inconsistent Column Names<br/>+ Missing Data<br/>+ Duplicate rows<br/>+ Different Data Types |
 | 003 | Data Pre Proceesing |+ Importing the libraries<br/>+ Importing dataset<br/>+ Handling the missing data<br/>+ Encoding categorical data<br/>+ Splitting the datasets into training sets and Test sets<br/>+ Normalization by Feature Scaling |
 
 ## Day 1 Data Cleaning Working with string
@@ -22,28 +22,3 @@
    + **Counting string in A column**
       + Get length of words in each row of a column
       + Get the total number of counts
-## Day 2 Data Cleansing
-   + **Reding the file**
-      + Encoding Error
-      + Inconsistent rows
-   + **Inconsistent Column Names**
-      + Change Cases
-      + Rename them
-   + **Missing Data**
-      + Add a default value for missing data or use mean to fill it
-      + Delete the row/column with missing data
-      + Interpolate the rows
-      + Replace
-   + **Duplicate rows**
-      + using drop_duplicates()
-      + using keep='first'
-   + **Different Data Types**
-      + Change datatype after reading the csv
-      + Change datatype before reading the csv ++ pd.read_csv(url, dtype={'column1':float})
-## Day 3 Data Pre Processing
-   1. Importing the libraries
-   2. Importing dataset
-   3. Handling the missing data
-   4. Encoding categorical data
-   5. Splitting the datasets into training sets and Test sets
-   6. Normalization by Feature Scaling
