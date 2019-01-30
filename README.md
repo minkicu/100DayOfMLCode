@@ -4,7 +4,7 @@
 |-----|:--------------------------------------|:-------|
 | 001 | Data Cleaning Working with string     ||
 | 002 | Data Cleaning ||
-| 003 | Data Pre Proceesing |Importing the libraries<br/>Importing dataset |
+| 003 | Data Pre Proceesing |+ Importing the libraries<br/>+ Importing dataset<br/>+ Handling the missing data<br/>+ Encoding categorical data<br/>+ Splitting the datasets into training sets and Test sets<br/>+ Normalization by Feature Scaling |
 
 ## Day 1 Data Cleaning Working with string
    + **Split A column into multiple cloumns**
