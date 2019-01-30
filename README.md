@@ -1,4 +1,9 @@
 # 100-Days-Of-ML-Code
+
+| Day | Topic                                 |
+|-----|:--------------------------------------|
+| 001 | Data Cleaning Working with string     |
+
 ## Day 1 Data Cleaning Working with string
    + **Split A column into multiple cloumns**
       + using str.split()
