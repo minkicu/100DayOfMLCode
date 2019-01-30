@@ -3,6 +3,8 @@
 | Day | Topic                                 |
 |-----|:--------------------------------------|
 | 001 | Data Cleaning Working with string     |
+| 002 | Data Cleaning |
+| 003 | Data Pre Proceesing |
 
 ## Day 1 Data Cleaning Working with string
    + **Split A column into multiple cloumns**
