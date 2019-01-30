@@ -1,10 +1,10 @@
 # 100-Days-Of-ML-Code
 
-| Day | Topic                                 |
-|-----|:--------------------------------------|
-| 001 | Data Cleaning Working with string     |
-| 002 | Data Cleaning |
-| 003 | Data Pre Proceesing |
+| Day | Topic                                 | Detail |
+|-----|:--------------------------------------|:-------|
+| 001 | Data Cleaning Working with string     ||
+| 002 | Data Cleaning ||
+| 003 | Data Pre Proceesing |Importing the libraries<br/>Importing dataset |
 
 ## Day 1 Data Cleaning Working with string
    + **Split A column into multiple cloumns**
