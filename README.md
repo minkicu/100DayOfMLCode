@@ -9,3 +9,5 @@
 |005| Multiple Linear Regression |+ Fitting Simple Linear Regression Model to the training set<br/>+ Predecting the Result<br/>+ Visualising<br/>+ Mean Squared Error|
 |006| Logistic Regression ||
 |007| Logistic Regression without sklearn |+ Sigmoid Function<br/>+ Cost Function<br/>+ Gradient Function<br/>+ Optimized|
+|008| Logistic Regression - Iris case |+seaborn pairplot|
+|009| KNN |+ seaborn dataset<br/>+ seaborn lmplot<br/>+ classification_report<br/>+ confusion_matrix<br/>+ Error Rate vs K-Value+ KNN score|
