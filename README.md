@@ -11,3 +11,5 @@
 |007| Logistic Regression without sklearn |+ Sigmoid Function<br/>+ Cost Function<br/>+ Gradient Function<br/>+ Optimized|
 |008| Logistic Regression - Iris case |+seaborn pairplot|
 |009| KNN |+ seaborn dataset<br/>+ seaborn lmplot<br/>+ classification_report<br/>+ confusion_matrix<br/>+ Error Rate vs K-Value+ KNN score|
+|010| SVM ||
+|011| SVM use case|Classify recipes as cupcakes or muffins|
