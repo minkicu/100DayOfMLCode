@@ -13,3 +13,4 @@
 |009| KNN |+ seaborn dataset<br/>+ seaborn lmplot<br/>+ classification_report<br/>+ confusion_matrix<br/>+ Error Rate vs K-Value+ KNN score|
 |010| SVM ||
 |011| SVM use case|Classify recipes as cupcakes or muffins|
+|012| Dicision Tree||
