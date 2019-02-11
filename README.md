@@ -14,3 +14,5 @@
 |010| SVM ||
 |011| SVM use case|Classify recipes as cupcakes or muffins|
 |012| Dicision Tree||
+|013| Random Forest||
+|014| Gaussian Naive Bayes||
