@@ -16,3 +16,5 @@
 |012| Dicision Tree||
 |013| Random Forest||
 |014| Gaussian Naive Bayes||
+|015| Multinomial Naive Bayes||
+|016| Basic Neural Network||
