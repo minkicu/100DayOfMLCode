@@ -18,4 +18,5 @@
 |014| Gaussian Naive Bayes||
 |015| Multinomial Naive Bayes||
 |016| Basic Neural Network||
-|017| Scatterplot ||
+|017| Visualization - Scatter plot ||
+|018| Visualization - Line plot ||
