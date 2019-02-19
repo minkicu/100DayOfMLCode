@@ -21,3 +21,4 @@
 |017| Visualization - Scatter plot ||
 |018| Visualization - Line plot ||
 |019| Visualization - Pie and Donut plot ||
+|020| Visualization - Bar plot ||
