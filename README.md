@@ -24,3 +24,4 @@
 |020| Visualization - Bar plot ||
 |021| Visualization - Histogram plot ||
 |022| Preprocessing and Scaling||
+|023| Principal Component Analysis||
