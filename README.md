@@ -25,3 +25,4 @@
 |021| Visualization - Histogram plot ||
 |022| Preprocessing and Scaling||
 |023| Principal Component Analysis||
+|024| PCA on Standardized and Non-Standardized||
