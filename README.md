@@ -27,3 +27,4 @@
 |023| Principal Component Analysis||
 |024| PCA on Standardized and Non-Standardized||
 |025| Simple KMeans Clustering||
+|026| Agglomerative Hierarchical Clustering||
