@@ -23,9 +23,10 @@
 |019| Visualization - Pie and Donut plot ||
 |020| Visualization - Bar plot ||
 |021| Visualization - Histogram plot ||
-|022| Preprocessing and Scaling||
-|023| Principal Component Analysis||
-|024| PCA on Standardized and Non-Standardized||
-|025| Simple KMeans Clustering||
-|026| Agglomerative Hierarchical Clustering||
-|027| Stochastic Gradient Descent (SGD)||
+|022| Preprocessing and Scaling ||
+|023| Principal Component Analysis ||
+|024| PCA on Standardized and Non-Standardized ||
+|025| Simple KMeans Clustering ||
+|026| Agglomerative Hierarchical Clustering ||
+|027| Stochastic Gradient Descent (SGD) ||
+|028| Eigenfaces for feature extraction ||
