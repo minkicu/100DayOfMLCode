@@ -30,3 +30,4 @@
 |026| Agglomerative Hierarchical Clustering ||
 |027| Stochastic Gradient Descent (SGD) ||
 |028| Eigenfaces for feature extraction ||
+|029| Bank Churn by Keras ||
