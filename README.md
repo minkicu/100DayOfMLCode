@@ -32,3 +32,4 @@
 |028| Eigenfaces for feature extraction ||
 |029| Bank Churn by Keras ||
 |030| clustering by Neural Network ||
+|031| clustering by DBSCAN ||
