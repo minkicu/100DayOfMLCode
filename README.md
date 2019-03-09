@@ -34,3 +34,5 @@
 |030| clustering by Neural Network ||
 |031| clustering by DBSCAN ||
 |032| Gaussian Mixture ||
+|033| Anormaly Detection ||
+|034| Singular Value Decomposition (SVD) ||
