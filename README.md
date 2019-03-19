@@ -36,3 +36,8 @@
 |032| Gaussian Mixture ||
 |033| Anormaly Detection ||
 |034| Singular Value Decomposition (SVD) ||
+|035| Variational Autoencoders ||
+|036| Autoencoders by Keras ||
+|037| Local Outlier Factor ||
+|038| Regression DNN Regressor Estimator ||
+|039| Generative Adversarial Networks (GAN) ||
