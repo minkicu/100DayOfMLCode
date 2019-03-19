@@ -41,3 +41,4 @@
 |037| Local Outlier Factor ||
 |038| Regression DNN Regressor Estimator ||
 |039| Generative Adversarial Networks (GAN) ||
+
